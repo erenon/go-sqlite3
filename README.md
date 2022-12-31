@@ -131,7 +131,7 @@ Boolean values can be one of:
 ## DSN Examples
 
 ```
-file:test.db?cache=shared&mode=memory
+file:test.db?mode=memory
 ```
 
 # Features
